@@ -34,7 +34,10 @@ redirect_from:
   </style>
 </head>    
 <body>
-     <p align="justify">Hello! I'm a PhD student at Clemson! I am awesome :) </p>      
+     <p align="justify">I am a second-year Ph.D. student in Human-Centered Computing at Clemson University. I am advised by Dr. Guo Freeman and am a member of the CUGAME Lab. 
+I have a B.E in Computer Engineering from Pune University, India and a M.S. in Informatics from the Pennsylvania State University. 
+
+My research in Human-Computer Interaction (HCI) explores the nuanced experiences of creative technology workers like game developers and virtual reality (VR) streamers and the future of their work in the age of generative artificial intelligence. I have done previous research in examining potential biases in natural language processing systems, particularly against people from different countries.  </p>      
   <h2 style="color: #5F9EA0;">News</h2>
   <div class="news-item">
     <h3><b>Jun 2024</b> - New preprint titled <a href="https://arxiv.org/abs/2406.12665" target="_blank" style="color: #1976d2;">CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis</a> is available on arXiv</h3>
